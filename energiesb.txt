@@ -1,0 +1,10 @@
+butanol 	 -232.166 
+decanol 	 -466.384 
+ethanol 	 -154.091 
+heptanol 	 -349.274 
+hexanol 	 -310.239 
+methanol 	 -115.048 
+nonanol 	 -427.347 
+octanol 	 -388.311 
+pentanol 	 -271.201 
+propanol 	 -193.128 
