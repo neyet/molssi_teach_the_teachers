@@ -1,6 +1,8 @@
 """
 geometry_analysis.py
 This module contains the geometry_analysis project
+
+Author: NE - test of git commit
 """
 
 import numpy
@@ -46,11 +48,9 @@ if __name__ == "__main__":
 
     print(F'Running {sys.argv[0]}')
 
-
-
     if len(sys.argv) < 2:
         raise NameError("Incorrect input!  Please specify an xyz file to be analyzed.")
-#if we forget to specify the file name, we can 'raise an error' to print when there is an issue
+        #if we forget to specify the file name, we can 'raise an error' to print when there is an issue
 
     file_location = sys.argv[1]
     symbols, coord = open_xyz(file_location)
